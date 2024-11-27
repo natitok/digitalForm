@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/digitalForm/static/css/main.4a16823b.css",
+    "main.js": "/digitalForm/static/js/main.571df624.js",
+    "static/js/213.2aabe3a3.chunk.js": "/digitalForm/static/js/213.2aabe3a3.chunk.js",
+    "static/js/732.6a04bc3d.chunk.js": "/digitalForm/static/js/732.6a04bc3d.chunk.js",
+    "static/js/453.3bbcf3ca.chunk.js": "/digitalForm/static/js/453.3bbcf3ca.chunk.js",
+    "index.html": "/digitalForm/index.html",
+    "main.4a16823b.css.map": "/digitalForm/static/css/main.4a16823b.css.map",
+    "main.571df624.js.map": "/digitalForm/static/js/main.571df624.js.map",
+    "213.2aabe3a3.chunk.js.map": "/digitalForm/static/js/213.2aabe3a3.chunk.js.map",
+    "732.6a04bc3d.chunk.js.map": "/digitalForm/static/js/732.6a04bc3d.chunk.js.map",
+    "453.3bbcf3ca.chunk.js.map": "/digitalForm/static/js/453.3bbcf3ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a16823b.css",
+    "static/js/main.571df624.js"
+  ]
+}
