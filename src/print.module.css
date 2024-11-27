@@ -1,0 +1,136 @@
+.serviceTitle {
+    display: inline-block;
+    text-align: right;
+    font-family: Heebo-Medium;
+    font-size: 24px;
+    /* color: #333333; */
+    line-height: 50px;
+    padding-right: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.headerIcons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title1 {
+    text-align: center;
+    color: #005AA5;
+    padding: 3px;
+    font-size: 30px;
+}
+
+.title2 {
+    color: rgb(0 90 165);
+    border-bottom: 1px solid rgb(0 90 165);
+    padding: 0 5px;
+    margin: 30px 2rem 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 20px;
+    max-width: 100%;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    font-family: Heebo-Medium
+}
+
+.tableWrap {
+    width: 100%;
+    display: flex;
+}
+
+.halfColumn {
+    font-size: 20px;
+    padding: 5px;
+    width: 50%;
+}
+
+.hidePage {
+    display: none;
+    width: 1248px;
+    min-height: 1490px;
+    direction: rtl;
+    text-align: right;
+    page-break-after: always;
+    page-break-before: always;
+    padding: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 4rem;
+    margin-bottom: auto;
+    margin-right: auto;
+    font-family: Heebo-Medium;
+}
+
+.footer {
+    display: flex;
+    font-size: 10px;
+    width: 100%;
+    font-family: heebo-Medium;
+    padding: 5px;
+    gap: 15px;
+}
+
+.footerTitle {
+    display: flex;
+    direction: rtl;
+}
+
+.asirImg {
+    border: 1px solid #005AA5;
+    border-radius: 5px;
+    height: 110px;
+    width: 95px;
+    margin-left: 25px;
+    /* margin-top: 8px; */
+}
+
+.dFlex {
+    display: flex;
+}
+
+.key {
+    min-width: 100px;
+    color: #005AA5;
+}
+
+.hContent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 50px 0;
+    font-size: 20px;
+}
+
+.colTh {
+    display: grid;
+    /* justify-content: space-between; */
+    flex-grow: 1;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 35px 35px 35px;
+}
+
+.cell5 {
+    grid-area: 2/2/3/4;
+}
+.cell6 {
+    grid-area: 3/2/4/4;
+}
+.ps20{
+    padding-right:20px ;
+}
+.signName{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tyuta{
+    color: red;
+    font-size: 25px;
+}
